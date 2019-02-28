@@ -1,3 +1,5 @@
+https://trollderius.github.io/star-history/
+
 > As a chrome extension: https://github.com/timqian/star-history-plugin/ 
 
 
